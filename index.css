@@ -1,0 +1,19 @@
+h1
+{
+	font-family;"Times New Roman";
+	color:blue;
+	text-align:center;
+}
+
+h2
+{
+	color:red;
+	font-family:"Times New Roman";
+	text-decoration: underline;
+}
+
+p
+{
+	font-family:Calibri;
+	text-align:justify;
+}
